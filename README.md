@@ -229,8 +229,8 @@ If you use this code or data in your research, please cite our paper:
 
 ## 👥 Authors
 
-- **Lianjie Yang** - State Key Laboratory of Geohazard Prevention and Geoenvironment Protection, Chengdu University of Technology
-- **Chunlei Xin** - College of Environment and Civil Engineering, Chengdu University of Technology
+- **Lianjie Yang** - College of Environment and Civil Engineering, Chengdu University of Technology
+- **Chunlei Xin** - State Key Laboratory of Geohazard Prevention and Geoenvironment Protection, Chengdu University of Technology 
 - **Zhao Wang** (*Corresponding Author*) - Institute for Transport Studies, University of Leeds
 - **Xinyuan Yu** - School of Mechanical, Aerospace and Civil Engineering, The University of Sheffield
 - **Iman Hajirasouliha** - School of Mechanical, Aerospace and Civil Engineering, The University of Sheffield
