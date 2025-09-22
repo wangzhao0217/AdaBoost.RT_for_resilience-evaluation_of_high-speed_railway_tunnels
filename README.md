@@ -255,6 +255,7 @@ For questions, suggestions, or collaborations, please contact:
 
 - **Zhao Wang**: z.wang13@leeds.ac.uk
 - **Chunlei Xin**: xinchunlei@cdut.edu.cn
+- **Lianjie Yang**: yanglianjie0804@163.com
 
 ---
 
